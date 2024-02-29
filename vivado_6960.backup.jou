@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Tue Apr 25 19:20:48 2023
+# Process ID: 6960
+# Current directory: C:/Users/Alexia/Vivado_projects/Mips_Pipeline
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7504 C:\Users\Alexia\Vivado_projects\Mips_Pipeline\project_1.xpr
+# Log file: C:/Users/Alexia/Vivado_projects/Mips_Pipeline/vivado.log
+# Journal file: C:/Users/Alexia/Vivado_projects/Mips_Pipeline\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Alexia/Vivado_projects/Mips_Pipeline/project_1.xpr
+
